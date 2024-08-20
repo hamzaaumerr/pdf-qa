@@ -32,7 +32,7 @@ To run this application locally, follow the instructions below:
 1. Clone the repository:
 
     ```bash
-    git clone #
+    git clone https://github.com/hamzaaumerr/pdf-qa.git
     cd Chat_with_PDF
     ```
 

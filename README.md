@@ -15,7 +15,7 @@ The Chat with PDF app enables users to upload a PDF file and ask questions about
 
 ## Demo
 
-You can try the live demo of the app here: [Chat with PDF on Streamlit](#)
+You can try the live demo of the app here: [Chat with PDF on Streamlit](https://pdf-q-a.streamlit.app/)
 
 ## Getting Started
 
